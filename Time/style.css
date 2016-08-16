@@ -1,0 +1,10 @@
+﻿#cont {
+    text-align: center;
+    font-size: 40pt
+}
+
+.button {
+    background-color: aqua;
+    width: 40px;
+    cursor: default
+}
